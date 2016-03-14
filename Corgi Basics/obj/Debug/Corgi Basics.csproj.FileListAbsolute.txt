@@ -7,3 +7,12 @@ c:\users\david\documents\visual studio 2013\Projects\Corgi Basics\Corgi Basics\o
 c:\users\david\documents\visual studio 2013\Projects\Corgi Basics\Corgi Basics\obj\Debug\Corgi Basics.csproj.GenerateResource.Cache
 c:\users\david\documents\visual studio 2013\Projects\Corgi Basics\Corgi Basics\obj\Debug\Corgi Basics.exe
 c:\users\david\documents\visual studio 2013\Projects\Corgi Basics\Corgi Basics\obj\Debug\Corgi Basics.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\bin\Debug\Corgi Basics.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi Basics.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi Basics.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\bin\Debug\Corgi Basics.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\bin\Debug\Corgi Basics.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi Basics.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi_Basics.Form1.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi_Basics.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Corgi-Basics\Corgi Basics\obj\Debug\Corgi Basics.csproj.GenerateResource.Cache
